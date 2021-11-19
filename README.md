@@ -21,4 +21,4 @@ Preglejte, kakšne so še ostale možne ločljivosti pretvorbe in območja vredn
 
 14bit, od 0 do 16383. 
  
-Komentar:
+Komentar: Vse je delovalo kot pričakovano, večjih težav ni bilo
